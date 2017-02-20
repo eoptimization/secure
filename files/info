@@ -1,0 +1,1 @@
+inline_template ("This file was created by Puppet Master at <%=Time.now %>\n"),
